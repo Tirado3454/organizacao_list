@@ -32,7 +32,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba00007020
 #EXTINF:-1 group-title="COMEDIA (PT-BR)",Pluto Comedia (Pluto BR)
 https://stitcher.pluto.tv/stitch/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
 
-#EXTM3U
 
 ##############################
 # FILMES (PT-BR)
